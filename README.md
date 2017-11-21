@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/4304660/33075409-3386be38-ce7e-11e7-8461-3d25496ec02f.png" height="100px"> 
+<img src="https://user-images.githubusercontent.com/4304660/33075409-3386be38-ce7e-11e7-8461-3d25496ec02f.png" height="100px">   
+
 ## Ruby on Rails Project 1 Refactor
 
 ![](https://media.giphy.com/media/l0HlGmv4WqldO9c5y/giphy.gif)
